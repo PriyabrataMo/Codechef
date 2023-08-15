@@ -1,0 +1,1 @@
+{"name":"Local: substr","url":"/Users/priyabrata/Desktop/codechef/substr.cpp","tests":[{"id":1687360135118,"input":"9\nNAUTILUS\nFIREFOX\nGEDIT\nFIREFOX\nNAUTILUS\nWINE\nGIMP\nTERMINAL\nWINE","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/priyabrata/Desktop/codechef/substr.cpp","group":"local","local":true}

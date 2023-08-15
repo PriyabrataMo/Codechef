@@ -1,0 +1,1 @@
+{"name":"Local: xor","url":"/Users/priyabrata/Desktop/codechef/xor.cpp","tests":[{"id":1683313060179,"input":"1\n3\n1111111111\n0000000000\n0000000011","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/priyabrata/Desktop/codechef/xor.cpp","group":"local","local":true}

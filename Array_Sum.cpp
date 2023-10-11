@@ -14,7 +14,7 @@ int main() {
 	int t;
 	cin>>t;
 	while(t--){
-	    int n,k;
+	    ll n,k;
         cin>>n>>k;
         
         vector<int> v(n);

@@ -11,7 +11,7 @@ int main() {
     	    cout<<'0'<<endl;
     	}
     	else{
-    	    cout<<b-g<<endl;
+    	    c
     	}
     	
     	

@@ -4,18 +4,20 @@
 #include <stack>
 #include <array>
 #include <algorithm>
-
-
+#define ll long long int
+#define vi vector<int>
+#define vvi vector<vi>
+#define pb push_back
 using namespace std;
 
 int main() {
 	int t;
 	cin>>t;
-	while(t--){
+	while(t){
 	    int n;
 	    cin>>n;
-        int mi = n/2+(n&1);
-        cout<<mi<<" "<<n<<endl;
+	    cout<<n*(n-1)<<endl;
+	    t--;
 	}
 	return 0;
 }

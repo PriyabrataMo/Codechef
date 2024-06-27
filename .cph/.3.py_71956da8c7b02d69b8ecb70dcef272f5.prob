@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"/Users/priyabrata/Desktop/codechef/3.py","tests":[{"id":1712158759787,"input":"5\n4\n1 1 3 1\n4\n4 1 3 2\n3\n1 1 3\n5\n3 1 3 2 4\n6\n4 1 3 5 6 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/priyabrata/Desktop/codechef/3.py","group":"local","local":true}
